@@ -6,6 +6,8 @@
 ### Web Simulators
 [Basic MIPS Simulator in JavaScript (Accurate Simulation) v0.2 by morriswmz](http://morriswmz.jit.su/static/simple-mips-pipelined.html)
 
+[WeMips: Online Mips Emulator](http://rivoire.cs.sonoma.edu/cs351/wemips/)
+
 ### Example Code
 
 [MIPS Hello World (Virginia Tech)](http://courses.cs.vt.edu/~cs2505/summer2010/Notes/pdf/T21.IntroMIPSAssembly.pdf)
@@ -32,7 +34,7 @@
 
 [George Mason University](http://cs.gmu.edu/~dnord/cs265/spim_intro.html)
 
-[Georgia Institude of Technology](http://www.ece.gatech.edu/academic/courses/ece2030/readings/controllers/) 
+[Georgia Institude of Technology](http://www.ece.gatech.edu/academic/courses/ece2030/readings/controllers/)
 
 [Goucher College](http://phoenix.goucher.edu/~kelliher/cs26/spim.html)
 
